@@ -1,0 +1,19 @@
+{
+    "name": "splynx/speedtest",
+    "description": "HTML5 Speedtest",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Oleksii Fedoryshyn",
+            "email": "fenixter@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "getIP.php",
+            "empty.php",
+            "garbage.php"
+        ]
+    }
+}
